@@ -7,7 +7,7 @@ namespace DatingApp.API.Dtos
         [Required]
         public string Username { get; set; }
         
-        [Required]
+        [Required]         
         public string Password { get; set; }
     }
 }
